@@ -1,0 +1,8 @@
+C:\Users\Publico\source\repos\EX8POO\EX8POO\bin\Debug\EX8POO.exe.config
+C:\Users\Publico\source\repos\EX8POO\EX8POO\bin\Debug\EX8POO.exe
+C:\Users\Publico\source\repos\EX8POO\EX8POO\bin\Debug\EX8POO.pdb
+C:\Users\Publico\source\repos\EX8POO\EX8POO\obj\Debug\EX8POO.csproj.AssemblyReference.cache
+C:\Users\Publico\source\repos\EX8POO\EX8POO\obj\Debug\EX8POO.csproj.SuggestedBindingRedirects.cache
+C:\Users\Publico\source\repos\EX8POO\EX8POO\obj\Debug\EX8POO.csproj.CoreCompileInputs.cache
+C:\Users\Publico\source\repos\EX8POO\EX8POO\obj\Debug\EX8POO.exe
+C:\Users\Publico\source\repos\EX8POO\EX8POO\obj\Debug\EX8POO.pdb
